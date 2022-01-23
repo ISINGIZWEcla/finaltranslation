@@ -100,7 +100,7 @@
 		
 ?>    
 <p id="message"></p>
-	your answer: <label><?php echo $result[0];?></label><?php{}
+	your answer: <label><?php echo $result[0];?></label><?php
 		 
 
 		 
